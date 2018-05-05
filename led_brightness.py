@@ -1,4 +1,4 @@
-import GPi.GPIO as gpio
+import RPi.GPIO as gpio
 
 led_pin = 18
 
